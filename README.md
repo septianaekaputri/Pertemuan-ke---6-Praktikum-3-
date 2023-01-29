@@ -113,9 +113,6 @@ lalu hasil run nya menjadi
 
 # Latihan 3
 buat file baru "latihan3"
-
-![2022-10-31 (16)](https://user-images.githubusercontent.com/115775237/198935852-a75da9bf-dfb4-495d-a952-10d7fe51b41d.png)
-
 masukkan code programnya
 
 	string = ""
