@@ -1,6 +1,6 @@
-Nama    : Tiara Putri
-NIM     : 312210064
-Kelas   : TI.22.A1
+# Nama    : Septiana Eka Putri
+# NIM     : 312210705
+# Kelas   : TI.22.C.9
 
 # Cara Installasi Pycharm
 Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#section=windows  , Dan anda pilih yang Community
@@ -8,12 +8,13 @@ Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#sectio
 ![2022-10-31 (2)](https://user-images.githubusercontent.com/115775237/198932831-83182560-3117-4469-8e45-924b8cd7887d.png)
 
 next saja semua perintahnya 
+<img width="369" alt="2" src="https://user-images.githubusercontent.com/123891182/215353971-3bcbed55-b358-4b80-b453-b386ab9424d6.png">
 
-![2022-10-31 (3)](https://user-images.githubusercontent.com/115775237/198933464-45381f87-f77d-4ace-bc48-0bef2d8e66a0.png)
 
 tunggu hingga selesai
 
-![2022-10-31 (4)](https://user-images.githubusercontent.com/115775237/198933506-e6659704-6c9f-48ea-bdc9-5b44ceadc8a3.png)
+<img width="369" alt="3" src="https://user-images.githubusercontent.com/123891182/215353976-ac34860d-a2dd-4b59-b5c3-32d4791ff376.png">
+
 
 Jika sudah selesai maka program siap di gunakan
 
@@ -22,13 +23,14 @@ Jika sudah selesai maka program siap di gunakan
 
 Pertama-tama anda harus Klik New project lalu kasih nama project anda(sesuai yang anda mau), Dan anda harus pilih yang Previously Configurred interperter lalu klik yang add interperter dan pilih yang System interperter dan anda klik yang versi Python anda seperti gambar di bawah ini
 
-![2022-10-31 (5)](https://user-images.githubusercontent.com/115775237/198933905-c2ae0ccd-7314-4c31-b29d-65ba89f636d8.png)
 
-![2022-10-31 (7)](https://user-images.githubusercontent.com/115775237/198934143-2f924b1e-5ea6-45de-8951-85f8e477f672.png)
+<img width="589" alt="4" src="https://user-images.githubusercontent.com/123891182/215353989-a0fa9b22-5ff7-4cf2-a98f-5ea3c5dc0745.png">
+
+<img width="589" alt="5" src="https://user-images.githubusercontent.com/123891182/215353996-917d170a-e786-427b-a3e9-cf3ba6f35b65.png">
 
 Selanjutnya anda membuat file Python baru di project anda tadi dan anda kasih nama file sesuai yang anda inginkan
 
-![2022-10-31 (8)](https://user-images.githubusercontent.com/115775237/198934387-0fe36386-208d-4ef2-a31d-075c791a91f7.png)
+<img width="927" alt="6" src="https://user-images.githubusercontent.com/123891182/215354002-9d4845f7-be98-4b7d-8915-7b39d08272e0.png">
 
 masukan code dari latihan1 anda lalu Run
 
@@ -76,12 +78,14 @@ masukan code dari latihan1 anda lalu Run
 	print('{0:>3} {1:>16}'.format(9, 10 ** 9))
 	print('{0:>3} {1:>16}'.format(10, 10 ** 10))
 
-![2022-10-31 (10)](https://user-images.githubusercontent.com/115775237/198934894-9eadb8fb-bf4b-47cd-bfac-a1027f06ac3c.png)
-![2022-10-31 (11)](https://user-images.githubusercontent.com/115775237/198934948-5ad82e04-afc7-4470-8a03-4f2d885a9305.png)
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/123891182/215354024-66f161ae-d519-4b62-8df6-533240b442a6.png">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/123891182/215354031-8b21d059-8aa4-449c-b6c2-5c5a0b9430bb.png">
 
 lalu hasil run nya
 
-![2022-10-31 (13)](https://user-images.githubusercontent.com/115775237/198935226-cad7e53c-cd33-4516-878c-8c2be9dce648.png)
+
+<img width="924" alt="4" src="https://user-images.githubusercontent.com/123891182/215354036-036d8410-e781-4411-972f-380462d640ee.png">
+<img width="924" alt="5" src="https://user-images.githubusercontent.com/123891182/215354040-c8286bcf-560e-465c-a43d-212cf51d6e9b.png">
 
 # Latihan 2 
 buat latihan baru "latihan2"
@@ -100,11 +104,12 @@ lalu masukkan code program
 	print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
 	print("hasil penjumlahan {1}/{0}=%s".format(a,b) %(a/b))
 
-![2022-10-31 (14)](https://user-images.githubusercontent.com/115775237/198935539-aa9e1779-1e2a-49c7-aafe-a2a9df4a4fa3.png)
+<img width="933" alt="1" src="https://user-images.githubusercontent.com/123891182/215354077-3ee9ccb3-62b0-47f7-8bb1-2c559bddfc51.png">
 
 lalu hasil run nya menjadi
+<img width="933" alt="3" src="https://user-images.githubusercontent.com/123891182/215354093-ba070d2a-923a-4c06-9d69-d42c3999f264.png">
 
-![2022-10-31 (15)](https://user-images.githubusercontent.com/115775237/198935716-5385feda-0640-41f4-9d2f-81cca1875b91.png)
+
 
 # Latihan 3
 buat file baru "latihan3"
@@ -160,14 +165,16 @@ masukkan code programnya
 	string = string + "\n\n"
 	bar = bar + 1
 	print (string)
+<img width="946" alt="1" src="https://user-images.githubusercontent.com/123891182/215354227-a4794631-4412-429b-9eb1-d52e30fd0ef4.png">
 
-![2022-10-31 (17)](https://user-images.githubusercontent.com/115775237/198936187-68ac9e99-41a0-47f4-b13c-73aeab015353.png)
+<img width="946" alt="2" src="https://user-images.githubusercontent.com/123891182/215354235-0f84b9a7-b5f7-459f-a80e-f97101862570.png">
 
-![2022-10-31 (18)](https://user-images.githubusercontent.com/115775237/198936210-438e0ecf-327f-45b0-a7c6-8be9c9d609a7.png)
+<img width="684" alt="3" src="https://user-images.githubusercontent.com/123891182/215354240-acd9c2d2-9bdc-4997-8cba-aaa5216fe2ad.png">
 
 *Hasil Run*
 
-![2022-10-31 (19)](https://user-images.githubusercontent.com/115775237/198936591-1d85e5e0-bfab-4b30-abfd-ab3a8cffd542.png)
+
+<img width="926" alt="12" src="https://user-images.githubusercontent.com/123891182/215354249-ff29822a-a709-414c-982d-ffb091e73a19.png">
 
 # Menghitung Luas Dan Keliling Lingkaran
 buat file baru "praktikum3"
